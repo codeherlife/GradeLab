@@ -1,0 +1,42 @@
+Enter the grade: 
+You entered: 78 
+Enter the grade: 
+You entered: 93 
+Enter the grade: 
+You entered: 45 
+Enter the grade: 
+You entered: 88 
+Enter the grade: 
+You entered: 89 
+Enter the grade: 
+You entered: -1 
+The average is: 65.00 
+Enter the grade: 
+You entered: 87 
+Enter the grade: 
+You entered: 68 
+Enter the grade: 
+You entered: 100 
+Enter the grade: 
+You entered: -1 
+The average is: 63.00 
+Enter the grade: 
+You entered: 84 
+Enter the grade: 
+You entered: 86 
+Enter the grade: 
+You entered: 90 
+Enter the grade: 
+You entered: 86 
+Enter the grade: 
+You entered: 96 
+Enter the grade: 
+You entered: 68 
+Enter the grade: 
+You entered: 82 
+Enter the grade: 
+You entered: -1 
+The average is: 74.00 
+Enter the grade: 
+You entered: -1 
+The average is: 0.00 
