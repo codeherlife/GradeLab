@@ -10,7 +10,7 @@ Enter the grade:
 You entered: 89 
 Enter the grade: 
 You entered: -1 
-The average is: 65.00 
+The average is: 78.60 
 Enter the grade: 
 You entered: 87 
 Enter the grade: 
@@ -19,7 +19,7 @@ Enter the grade:
 You entered: 100 
 Enter the grade: 
 You entered: -1 
-The average is: 63.00 
+The average is: 85.00 
 Enter the grade: 
 You entered: 84 
 Enter the grade: 
@@ -36,7 +36,6 @@ Enter the grade:
 You entered: 82 
 Enter the grade: 
 You entered: -1 
-The average is: 74.00 
+The average is: 84.57 
 Enter the grade: 
 You entered: -1 
-The average is: 0.00 

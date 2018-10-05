@@ -28,7 +28,7 @@ int main(void) {
 
 void calculateAverage(){
     int numbersInputed = 0;
-    int sum = 0;
+    double sum = 0;
     double average = 0;
     int sentinel = 0;
     
@@ -40,22 +40,21 @@ void calculateAverage(){
         printf(     "You entered: %d \n", sentinel);
         fprintf(fp, "You entered: %d \n", sentinel);
         
-        
         if(sentinel == -1)
         {
-            numbersInputed++;
             break;
         }
-        
+
         numbersInputed++;
         sum += sentinel;
-        
     }
-    
-    average = sum / numbersInputed;
-    printf(     "The average is: %.2lf \n", average);
-    fprintf(fp, "The average is: %.2lf \n", average);
-    
+    if (numbersInputed){
+        average = sum / numbersInputed;
+        printf(     "The average is: %.2lf \n", average);
+        fprintf(fp, "The average is: %.2lf \n", average);
+    } else {
+        printf(     "No valid grades inputed \n");
+    }
     
     return;
 }
